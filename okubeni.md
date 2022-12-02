@@ -1,9 +1,7 @@
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQG3k8srNuTU2Q/profile-displaybackgroundimage-shrink_350_1400/0/1648991406954?e=1675296000&v=beta&t=8r0qUXP0wL9Vwcol2eZsbYZEa1oplvXjipElWOOpMp8" height="300" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E16AQG3k8srNuTU2Q/profile-displaybackgroundimage-shrink_350_1400/0/1648991406954?e=1675296000&v=beta&t=8r0qUXP0wL9Vwcol2eZsbYZEa1oplvXjipElWOOpMp8" height="200" /></a>
 
 
-
-
-- 👋 Hi, I’m @Batuhanerol
+- 👋 Hi, I’m Batuhan Erol
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
